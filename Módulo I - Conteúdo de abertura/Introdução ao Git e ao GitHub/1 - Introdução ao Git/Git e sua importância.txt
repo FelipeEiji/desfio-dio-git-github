@@ -1,0 +1,5 @@
+O Git foi criado por Linus Torvalds, criador do sistema operacional Linux, para resolver o problema de versionamento e compartilhamento de código.
+
+Software podem ser criado em equipes, e para que uma equipe possa trabalhar em conjunto em uma mesma codebase, o Git pode ser utilizado.
+
+Git e GitHub não são a mesma coisa. O GitHub é um serviço de hospedagem para armazenar os repositórios Git.
